@@ -1,0 +1,2 @@
+﻿No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'StandardClientTransportConnection'.
